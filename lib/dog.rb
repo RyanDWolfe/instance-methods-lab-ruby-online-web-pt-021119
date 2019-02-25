@@ -1,5 +1,5 @@
 class Dog
-  bark
+  
 end
 
 def bark
